@@ -1,2 +1,7 @@
 File A 
+<<<<<<< HEAD
 It's me File A make chage to create conflict with  my feature
+=======
+It's me feature try to update a .txt to make conflict with my parent
+>>>>>>> feature
+ Alright i Resolved manullay
