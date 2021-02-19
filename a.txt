@@ -1,1 +1,2 @@
 File A 
+It's me feature try to update a .txt to make conflict with my parent
